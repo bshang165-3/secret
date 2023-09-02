@@ -1,0 +1,22 @@
+Email address,Domain name,Organization,Country,State,City,Postal code,Street,Confidence score,Type,Number of sources,Pattern,First name,Last name,Department,Position,Twitter handle,LinkedIn URL,Phone number
+kim.dahl@morgan.fi,morgan.fi,Morgan,FI,,,,,99,personal,3,{first}.{last},Kim,Dahl,,,,,
+magnus.rodas@morgan.fi,morgan.fi,Morgan,FI,,,,,99,personal,3,{first}.{last},Magnus,Rodas,Arts & design,Art Director,"","",""
+lars.rosenblad@morgan.fi,morgan.fi,Morgan,FI,,,,,99,personal,5,{first}.{last},Lars,Rosenblad,,"","","",""
+daniel.nickel@morgan.fi,morgan.fi,Morgan,FI,,,,,98,personal,3,{first}.{last},Daniel,Nickel,,,,,
+kimmo.luoma@morgan.fi,morgan.fi,Morgan,FI,,,,,98,personal,3,{first}.{last},Kimmo,Luoma,Arts & design,Art Director,"","",""
+thomas.backman@morgan.fi,morgan.fi,Morgan,FI,,,,,97,personal,3,{first}.{last},Thomas,Backman,,"","","",""
+aki.karlsson@morgan.fi,morgan.fi,Morgan,FI,,,,,97,personal,6,{first}.{last},Aki,Karlsson,,,,,
+johanna.lundstrom@morgan.fi,morgan.fi,Morgan,FI,,,,,96,personal,3,{first}.{last},Johanna,Lundstrom,Management,Director,"","",""
+anna.soderlund@morgan.fi,morgan.fi,Morgan,FI,,,,,96,personal,5,{first}.{last},Anna,Soderlund,Marketing,Marketing Advisor,"","",""
+toni.viemero@morgan.fi,morgan.fi,Morgan,FI,,,,,95,personal,3,{first}.{last},,,,,,,
+info@morgan.fi,morgan.fi,Morgan,FI,,,,,86,generic,6,{first}.{last},,,Support,,,,
+nea.aspholm@morgan.fi,morgan.fi,Morgan,FI,,,,,79,personal,3,{first}.{last},,,,,,,
+jasmina.koivumaki@morgan.fi,morgan.fi,Morgan,FI,,,,,79,personal,3,{first}.{last},,,,,,,
+henkka.avoketo@morgan.fi,morgan.fi,Morgan,FI,,,,,78,personal,3,{first}.{last},,,,,,,
+henri.valisaari@morgan.fi,morgan.fi,Morgan,FI,,,,,78,personal,3,{first}.{last},,,,,,,
+servicedesk@morgan.fi,morgan.fi,Morgan,FI,,,,,78,generic,3,{first}.{last},,,Support,,,,
+anna.hjulfors@morgan.fi,morgan.fi,Morgan,FI,,,,,77,personal,3,{first}.{last},,,,,,,
+rekry@morgan.fi,morgan.fi,Morgan,FI,,,,,77,personal,1,{first}.{last},,,,,,,
+anni.kiviniemi@morgan.fi,morgan.fi,Morgan,FI,,,,,77,personal,3,{first}.{last},,,,,,,
+emilia.lonnmark@morgan.fi,morgan.fi,Morgan,FI,,,,,76,personal,3,{first}.{last},,,,,,,
+tuula.koto@morgan.fi,morgan.fi,Morgan,FI,,,,,75,personal,3,{first}.{last},,,,,,,
