@@ -51,7 +51,7 @@ Take xqc for example, according to multiple news websites he gambled $685M from 
 
 Does pokimane actively solicit donations online with whatever means possible from people who like her romantically? if she doesn't feel the same way, does she communicate it, stop soliciting, or does she keep going? Why did she explicitly promised her victims her ‘undying love and appreciation’ in exchange for a prime sub? It's just retarded pedophillia or something.... Go ahead keep banning all of your victims so you only hear what you want to hear. What happens when your remaining victims find out how relationships are actually supposed to work? https://www.google.com/search?q=why+do+people+hate+pokimane
 
-Pokimane supports calling the people who have a romantic attraction to her the derogatory term of "simps" whom she abuses donations from. She also said “Isn’t it weird young boys are being told ‘simping’ is so terrible?" in support of her crimes against humanity. She then claimed that people pointing out how relationships are actually supposed to work are simply "sexist" or "misogynist." Holy fucking god I won't directly shoot her but I may develop hypersonic missiles to take her out if the order is given.
+Pokimane supports calling the people who have a romantic attraction to her the derogatory term of "simps" whom she abuses donations from. She also said “Isn’t it weird young boys are being told ‘simping’ is so terrible?" in support of her crimes against humanity. She then claimed that people pointing out how relationships are actually supposed to work are simply "sexist" or "misogynist."
 
 
 https://www.nme.com/news/gaming-news/pokimane-says-simp-hate-reinforces-sexism-and-misogyny-3257109
